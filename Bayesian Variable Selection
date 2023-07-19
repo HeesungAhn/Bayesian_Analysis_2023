@@ -2,7 +2,6 @@
 # Data scientist salary prediction using Bayesian Variable Selection
 # Data from https://www.kaggle.com/datasets/nikhilbhathi/data-scientist-salary-us-glassdoor
 
-
 library(MASS)
 library(tidyverse)
 library(rjags)
